@@ -1,0 +1,30 @@
+.men {
+    width: 70%;
+    display: table;
+    margin: auto;
+    margin-top: 2em;
+    
+}
+
+.fin {
+    background: red;
+    height: 90px;
+    margin-top: 1em;
+   
+}
+
+.fin small {
+    display: table;
+    margin: auto;
+    padding: 39px 0px;
+    color: antiquewhite;
+    font-size: 19px;
+    font-family: inherit;
+}
+
+
+.fin small span {
+    
+    color: black;
+    
+}
